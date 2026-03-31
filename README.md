@@ -13,3 +13,6 @@ This is a simple expense tracker built using React.
 - Automatically calculates total balance
 - Shows serparate income and expense amounts
 - Delete transaction
+
+#Live Demo
+https://expense-tracker-myproject.netlify.app/
